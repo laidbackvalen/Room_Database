@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622062281248",
+    "project_id": "room-trial-learnings",
+    "storage_bucket": "room-trial-learnings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622062281248:android:987af99d4a6d716288d245",
+        "android_client_info": {
+          "package_name": "com.example.roomtrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPanusS1NQSLh0QEVN06hgm2qdr8MBxws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
